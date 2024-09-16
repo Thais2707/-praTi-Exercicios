@@ -17,4 +17,3 @@ if (contador === 0){
 }
 
 console.log(livro)
-//teste2
