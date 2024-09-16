@@ -1,0 +1,6 @@
+Considerando a instação correta do code, siga as seguintes instruções: 
+
+Em uma nova pasta aberta em seu VS Code, abra o terminal e digite:
+git clone https://github.com/Thais2707/-praTi-Exercicios
+
+Feito isso basta abrir a pasta "Exercicios2" e acessar os arquivos.
